@@ -64,5 +64,4 @@ def locateRectangles(img_path, output_path):
 
 input_img_path = 'image.png'
 output_img_path = 'generated_image.png'
-locateRectangles(input_img_path, output_img_path)
-    
+locateRectangles(input_img_path, output_img_path)  
