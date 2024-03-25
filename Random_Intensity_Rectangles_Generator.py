@@ -1,3 +1,7 @@
+# a Python program to generate an image with randomly
+# placed filled rectangles. this work is to understand intensity values and opencv library
+# also this work may be used for future projects to implement new learnings. 
+    
 import random
 from PIL import Image, ImageDraw
 
