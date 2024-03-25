@@ -1,3 +1,6 @@
+#a Python program to locate filled rectangles in an image
+# and indicate their coordinates with blue boxes.
+
 import cv2
 import numpy as np
 
