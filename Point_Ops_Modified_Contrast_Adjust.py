@@ -1,3 +1,6 @@
+#a Python program to implement modified contrast
+#adjustment method for point operations and comparing different percentage values.
+
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
