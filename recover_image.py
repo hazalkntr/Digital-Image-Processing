@@ -1,3 +1,7 @@
+# This program implements a method to remove the motion blur effect from the image.
+# Using the motion_blurred_image_generator program, first create a motion effect on an image 
+# and then use this program that applies a filter to attempt to recover the original image as closely as possible.
+
 import cv2
 import numpy as np
 
